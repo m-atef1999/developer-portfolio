@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Portfolio of Mahmoud Atef - FullStack Software Developer",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "This is the portfolio of Mahmoud Atef. I'm a passionate and results-driven Full Stack Developer who specializes in API design and backend development using ASP.NET, C#, and SQL Server. I enjoy building clean, efficient, and scalable systems that help businesses and individuals achieve their goals. Alongside backend work, I also use modern frontend frameworks like React and Angular to deliver complete, end-to-end solutions. — Whether you're a growing business looking to enhance your digital platform or an individual with a new idea to bring online, I'd be excited to collaborate. Let's build something powerful, stable, and meaningful together.",
 };
 
 export default function RootLayout({ children }) {
