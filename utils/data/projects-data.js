@@ -1,42 +1,63 @@
 export const projectsData = [
-    {
-        id: 1,
-        name: 'AI Powered Financial App',
-        description: "Me and my team built an AI-powered financial mobile application. I have developed API using Express, Typescript, OpenAI, AWS, and MongoDB. Used OTP via AWS SES, Google, and Facebook for the authentication system. Built AI assistants using OpenAI's latest model and trained using our dataset. Voice messages are converted to text using AWS Transcribe. The app fetches data from Google Sheets and generates a PDF term sheet, sent via AWS SES.",
-        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
-        role: 'Backend Developer',
-        code: '',
-        demo: '',
-    },
-    {
-        id: 2,
-        name: 'Travel Agency App',
-        description: 'I have designed and developed a full-stack web app for 2Expedition, a travel agency in Armenia. I created the UI using NextJS, Typescript, MUI, TailwindCSS, Google Maps, Sun-Editor, and React Slick. The app supports multiple languages and currencies. I developed the API using NestJS, Typescript, MySQL, TypeORM, AWS, and Nodemailer. I deployed the front-end app to AWS Amplify and the back-end app to AWS EC2.',
-        tools: ['NextJS', 'Tailwind CSS', "Google Maps", "NestJS", "TypeScript", "MySQL", "AWS S3", "Sun-Editor", "Gmail Passkey"],
-        role: 'Full Stack Developer',
-        code: '',
-        demo: '',
-    },
-    {
-        id: 3,
-        name: 'AI Powered Real Estate',
-        description: 'My team built an AI-based real estate app using Replicate API and OpenAI. We used Express, Typescript, OpenAI, Replicate, Stripe, and Mongoose to develop the API. We utilized NextJS, Formik, TailwindCSS, and other npm libraries for the UI. We have trained multiple AI assistants using the latest GPT model and integrated Replicate API for image processing. We added role-based auth, subscription plans, Cron job scheduling, and payment integration with Stripe.',
-        tools: ['React', 'Bootstrap', 'SCSS', 'Stripe', 'Express', 'TypeScript', 'MongoDB', 'Azure Blob', 'OpenAI API', 'Replicate AI', 'Cronjob', 'JWT'],
-        code: '',
-        role: 'Full Stack Developer',
-        demo: '',
-    },
-    {
-        id: 4,
-        name: 'Newsroom Management',
-        description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-        tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
-        code: '',
-        demo: '',
-        role: 'Full Stack Developer',
-    }
+  {
+    id: 1,
+    name: "Spotless - Cleaning Services Platform",
+    description:
+      "Designed and implemented a modular .NET 8 backend with Entity Framework Core, following clean architecture principles (API, Core, Infrastructure, Tests). Built secure and scalable REST APIs to manage bookings, payments, and customer profiles. Integrated JWT authentication and role-based access for admins, cleaners, and customers. Applied repository and unit of work patterns for clean data access and maintainability. Managed database schema and migrations with EF Core Code-First and SQL Server.",
+    tools: [
+      "C#",
+      ".NET",
+      "Entity Framework Core",
+      "Clean Architecture",
+      "REST APIs",
+      "Authentication",
+      "Authorization",
+      "Validation",
+      "Logging",
+      "Error Handling",
+      "Testing",
+    ],
+    role: "FullStack Developer",
+    code: "",
+    demo: "",
+  },
+  {
+    id: 2,
+    name: "Home Hero - Home Management Services Database Project",
+    description:
+      "Designed a relational database schema for managing home service requests and staff assignments. Implemented stored procedures, views, and triggers for efficient data manipulation and integrity. Normalized tables up to 3NF to improve data consistency and query performance. Created SQL scripts and test datasets to simulate real business workflows. Collaborated with teammates to plan ER diagrams and ensure proper relational constraints.",
+    tools: [
+      "SQL Server",
+      "T-SQL",
+      "Stored Procedures",
+      "Views",
+      "Triggers",
+      "Normalization",
+      "ER Diagrams",
+    ],
+    role: "Database Developer",
+    code: "",
+    demo: "",
+  },
+  {
+    id: 3,
+    name: "Arduino-Based Home Automation System - Graduation Project",
+    description:
+      "Led a team of 5 to develop a low-cost smart home automation system using Arduino UNO and HC-05 Bluetooth module. Integrated sensors (PIR, LDR, DHT11, IR) and actuators (relays, servo motors, LCD) for automation. Programmed sensor logic and device triggers in optimized C/C++ using Arduino IDE.",
+    tools: [
+      "Arduino",
+      "C/C++",
+      "Embedded Systems",
+      "Bluetooth",
+      "Sensors",
+      "Actuators",
+      "LCD",
+    ],
+    role: "Embedded Systems Developer",
+    code: "",
+    demo: "",
+  },
 ];
-
 
 // Do not remove any property.
 // Leave it blank instead as shown below

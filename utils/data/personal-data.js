@@ -1,17 +1,19 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
-}
+  name: "MAHMOUD ATEF",
+  profile: "/profile.png",
+  designation: "Fullstack Software Developer",
+  description:
+    "My name is Mahmoud Atef. I'm a passionate and results-driven Full Stack Developer who specializes in API design and backend development using ASP.NET, C#, and SQL Server. I enjoy building clean, efficient, and scalable systems that help businesses and individuals achieve their goals. Alongside backend work, I also use modern frontend frameworks like React and Angular to deliver complete, end-to-end solutions. — Whether you're a growing business looking to enhance your digital platform or an individual with a new idea to bring online, I'd be excited to collaborate. Let's build something powerful, stable, and meaningful together.",
+  email: "m.atef.business@gmail.com",
+  phone: "+201555690210",
+  address: "Alexandria, Egypt",
+  github: "https://github.com/m-atef1999",
+  facebook: "",
+  linkedIn: "https://linkedin.com/in/m-atef1999",
+  twitter: "",
+  stackOverflow: "https://stackoverflow.com/users/21532529/mahmoud-atef",
+  leetcode: "https://leetcode.com/m-atef1999/",
+  devUsername: "",
+  resume:
+    "https://drive.google.com/file/d/1nYsrUXTz-pd-hoqQke7zkHVrp0ccFIEz/view?usp=sharing",
+};

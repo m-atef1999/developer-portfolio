@@ -1,20 +1,27 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelor's Degree",
+    duration: "2018 - 2022",
+    institution:
+      "H.I.C.I.S (Abou Kir higher institute of computer and information systems)",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Full-Stack .Net Developer Internship",
+    duration: "July 2025 - November 2025",
+    institution: "MCIT - Digital Egypt Pioneers Initiative",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+    title: "Full Stack Web Developer Bootcamp",
+    duration: "December 2025",
+    institution: "Udemy.com",
+  },
+  {
+    id: 4,
+    title: "Complete Python Bootcamp From Zero to Hero",
+    duration: "December 2025",
+    institution: "Udemy.com",
+  },
+];
